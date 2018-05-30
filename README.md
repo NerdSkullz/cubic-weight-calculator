@@ -1,4 +1,4 @@
-# Cubic Weight Calculator
+# Cubic Weight Calculator - Language: Javascript
 
 * To start the project navigate to the directory
 * start a simple server running a command like ( 'python -m SimpleHTTPServer' )
