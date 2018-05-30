@@ -7,7 +7,7 @@
 
 # SPECIAL CONSIDERATIONS
 * I haven't used any tool like webpack or node or style or anything at all
-* simply because I thought the challenge was around showing how I would call
-* the API, loop the results, filter them and manipulate their informations.
-* This is JUST a demonstration and I'm aware that in a production environment
-* there are aspects like compatibility, script size etc... to consider.
+simply because I thought the challenge was around showing how I would call
+the API, loop the results, filter them and manipulate their informations.
+This is JUST a demonstration and I'm aware that in a production environment
+there are aspects like compatibility, script size etc... to consider.
